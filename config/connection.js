@@ -4,9 +4,9 @@ var mysql = require("mysql");
 var connection = mysql.createConnection({
     host: "us-cdbr-iron-east-04.cleardb.net",
     port: 3306,
-    user: "b45871738184a0",
-    password: "534bc0e0",
-    database: "burgers_db"
+    user: "b0c203f8a67070",
+    password: "4f8063c3",
+    database: "heroku_340aae31ae14980"
 });
 
 connection.connect(function (err) {
