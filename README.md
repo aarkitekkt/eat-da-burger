@@ -2,7 +2,7 @@
 
 Repository: https://github.com/aarkitekkt/eat-da-burger
 
-Deployed: 
+Deployed: https://aarkitekkt-eat-da-burger.herokuapp.com/
 
 ## Overview
 ​
